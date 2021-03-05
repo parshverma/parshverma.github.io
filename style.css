@@ -5,8 +5,8 @@
 }
 
 :root {
-  --primary-color: rgb(30,144,255);
-  --select-color: blue;
+  --primary-color: blue;
+  --select-color: red;
   --success: rgb(15, 158, 2);
   --danger: rgb(214, 23, 23);
 }
