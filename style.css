@@ -37,7 +37,7 @@ body {
   border: 1px solid black;
   box-shadow: 0 10px 20px -5px rgba(0, 0, 0, 0.5);
   width: 530px;
-  height: 750px;
+  height: 600px;
   position: relative;
   background: rgba(255, 255, 255, 0.5);
   user-select: none;
@@ -286,7 +286,7 @@ button:active {
 /* Media Query: Laptop */
 @media screen and (max-width: 1800px) {
   .game-container {
-    
+
     margin-top: 35px;
 
   }
