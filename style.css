@@ -64,7 +64,7 @@ body {
   font-size: 12px;
   text-shadow: 1px 2px 2px red;
   letter-spacing: 2px;
-  height: 20px;
+  height: 18px;
   display: flex;
   justify-content:flex-end;
   align-items:center;
@@ -72,7 +72,8 @@ body {
 
 .card {
   margin: 5px auto 10px;
-  height: 500px;
+  height: 600px;
+  margin-top: -20px;
 }
 
 /* Splash Page -------------------- */
