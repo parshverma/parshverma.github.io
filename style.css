@@ -190,6 +190,7 @@ label {
   justify-content: center;
   align-items: center;
   position: relative;
+  margin-bottom:-150px;
 }
 
 .item-footer {
