@@ -37,12 +37,12 @@ body {
 .game-container {
   border: 1px solid black;
   box-shadow: 0 10px 20px -5px rgba(0, 0, 0, 0.5);
-  width: 530px;
+  width: 570px;
   height: 600px;
   position: relative;
   background: rgba(255, 255, 255, 0.5);
   user-select: none;
-  margin-top: 100px;
+  margin-top: 90px;
 }
 
 .header {
@@ -90,8 +90,8 @@ input[type="radio"] {
 
 .selection-container {
   position: relative;
-  margin-top: 6px;
-  top: 15px;
+  margin-top: 0px;
+  top: 12px;
 }
 
 .radio-container {
