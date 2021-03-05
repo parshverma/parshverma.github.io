@@ -29,6 +29,7 @@ body {
 }
 
 #rules{
+  position: absolute;
   color: blue;
   margin-top: 165px;;
 }
@@ -89,6 +90,7 @@ input[type="radio"] {
 
 .selection-container {
   position: relative;
+  margin-top: 6px;
   top: 15px;
 }
 
