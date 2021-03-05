@@ -75,6 +75,7 @@ body {
   margin: 5px auto 10px;
   height: 600px;
   margin-top: -24px;
+
 }
 
 /* Splash Page -------------------- */
@@ -167,7 +168,7 @@ label {
   display: flex;
   align-items: baseline;
   justify-content: space-between;
-  height: 70px;
+  height: 60px;
   margin: 0 50px;
   user-select: none;
 }
@@ -180,10 +181,10 @@ label {
   background: var(--select-color);
   position: fixed;
   top: 443px;
-  margin-top: -42px;
+  margin-top: -55px;
   z-index: -1;
   width: 529px;
-  height: 80px;
+  height: 45px;
 }
 
 .item-footer,
